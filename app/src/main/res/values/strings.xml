@@ -5,4 +5,10 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- Message -->
+    <string name="message.no.internet">Tidak tersambung ke internet, silakan cek koneksi internet Anda...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message.loading">Memuat...</string>
+    <string name="message.required.form">%s tidak boleh kosong</string>
 </resources>

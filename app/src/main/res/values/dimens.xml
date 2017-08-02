@@ -5,4 +5,26 @@
     <dimen name="nav_header_vertical_spacing">16dp</dimen>
     <dimen name="nav_header_height">160dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="shape_contact_image">32px</dimen>
+
+    <!-- Font Sizes -->
+    <dimen name="font_headline">28px</dimen>
+    <dimen name="font_heading">24px</dimen>
+    <dimen name="font_title">20px</dimen>
+    <dimen name="font_subheading">18px</dimen>
+    <dimen name="font_subtitle">16px</dimen>
+    <dimen name="font_body">14px</dimen>
+    <dimen name="font_caption">12px</dimen>
+    <dimen name="font_button">14px</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_extensive_super">120px</dimen>
+    <dimen name="margin_extensive">72px</dimen>
+    <dimen name="margin_wide">32px</dimen>
+    <dimen name="margin_wide_two">26px</dimen>
+    <dimen name="margin_wide_three">24px</dimen>
+    <dimen name="margin_medium">16px</dimen>
+    <dimen name="margin_medium_two">8px</dimen>
+    <dimen name="margin_narrow">4px</dimen>
 </resources>
